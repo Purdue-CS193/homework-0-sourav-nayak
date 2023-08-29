@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-#Sourav's First CS193 Homework
+# Sourav's First CS193 Homework
 My favorite parts of CS193 are
 - The teachers
 - The teaching style
